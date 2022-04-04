@@ -7,23 +7,20 @@ A minigame app
 This is an application I developed and its main objective is to beat the bot in jokenpo game
 
 <p align="left">
-<img src="/images/img1.png"/>
+<img src="/images/"/>
 </p>
 
 <p align= "center">
-  <img src="/images/im2.png"/>
+  <img src="/images/"/>
 </p>
 
-By clicking on the buttons below it is possible to compete with the bot
+By clicking on the buttons below it is possible to compete with the bot. And also visualize how many times you won
 
 <p align="left">
-  <img src="/images/img3.png"/>
+  <img src="/images/"/>
 </p>
 
-And also visualize how many times you won
 
-<p align="left">
-<img src="/images/img4.png"/>
-</p>
+
 
 ## Thank you! 🤠
