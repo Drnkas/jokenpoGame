@@ -1,16 +1,29 @@
-# jokenpo
+# jokenpo ✊🖐✌
 
 A minigame app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an application I developed and its main objective is to beat the bot in jokenpo game
 
-A few resources to get you started if this is your first Flutter project:
+<p align="left">
+<img src="/images/img1.png"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align= "center">
+  <img src="/images/im2.png"/>
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+By clicking on the buttons below it is possible to compete with the bot
+
+<p align="left">
+  <img src="/images/img3.png"/>
+</p>
+
+And also visualize how many times you won
+
+<p align="left">
+<img src="/images/img4.png"/>
+</p>
+
+## Thank you! 🤠
