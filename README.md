@@ -15,7 +15,7 @@ A minigame app
 
 |||
 |:-:|:-:|
-|![First Image](/images/im3.png)|![Second Image](/images/im1.png)|
+|![First Image](/images/im3.png)|![Second Image](/images/im4.png)|
 
 
 ## Thank you! 🤠
